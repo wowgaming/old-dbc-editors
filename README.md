@@ -2,4 +2,4 @@
 Useful tools for dbc "explorers"
 
 
-Documentation about DBCs https://github.com/azerothcore/dbc-dev-kit/wiki
+DBC Documentation: https://wowgame.github.io/wiki-wotlk-en/wiki/DBC_File.html
